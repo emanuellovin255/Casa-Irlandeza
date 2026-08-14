@@ -1,0 +1,31 @@
+# dependențe
+node_modules/
+
+# build
+.next/
+tsconfig.tsbuildinfo
+public/media/
+content/site.json
+content/audit.json
+content/poze.json
+styles/tokens.client.css
+
+# macOS
+.DS_Store
+
+# secrete — niciodată în repo (REGULI.md 6)
+.env
+.env.local
+.env.*.local
+
+# Materialul brut de la trierea fotografiilor (REGULI.md 10 — bugetul repo-ului).
+#
+# `poze-de-verificat/` conține cele 285 de fotografii descărcate de pe Booking
+# (24 MB) și planșele de contact generate din ele. Nu intră în repo: pe site
+# ajung doar cele 65 alese, din `poze/`.
+#
+# CE RĂMÂNE URMĂRIT, intenționat: `lista-booking.txt`, `index.txt` și cele două
+# scripturi. Cu ele, oricine poate redescărca originalele și reface selecția
+# exact, fără să aibă nevoie de cei 24 MB în istoricul git.
+poze-de-verificat/brut/
+poze-de-verificat/planse/
