@@ -58,48 +58,48 @@
 
 ## Ciubăr cu hidromasaj
 Icon: ciubar
-Text: Ciubăr cu hidromasaj pe terasa de lemn din curte, cu șezlonguri în jur. E lucrul pentru care oamenii se întorc și e cel mai bun motiv să vă rămână o seară liberă la sfârșitul zilei.
+Text: Pe terasa de lemn din curte, cu șezlonguri în jur.
 
 ## Saună
 Icon: sauna
-Text: Saună uscată, din lemn, lângă terasă. După o zi în apele termale de la Apollo, e exact opusul de care are nevoie corpul.
+Text: Saună uscată din lemn, lângă terasă.
 
 ## Bar și terasă acoperită
 Icon: bar
-Text: Un bar și o terasă acoperită cu mese lungi de lemn, unde încap și douăzeci de oameni deodată. Aici se stă seara, indiferent de vreme. Tot aici e și ținta de darts.
+Text: Mese lungi de lemn pentru douăzeci de oameni, sub acoperiș.
 
 ## Grătar și cuptor cu lemne
 Icon: grill
-Text: Grătar și cuptor cu lemne pe terasă, la dispoziția oaspeților. Se cumpără de la magazinele din apropiere și se gătește pe loc, fără să plece nimeni nicăieri.
+Text: Pe terasă, la dispoziția oaspeților.
 
 ## Grădină cu loc de joacă
 Icon: users
-Text: Curte împrejmuită, cu gazon, pomi, trambulină, căsuță de joacă și hamace între copaci. Copiii pot fi lăsați să se joace cât timp părinții stau pe terasă și îi văd.
+Text: Curte împrejmuită, cu trambulină, căsuță de joacă și hamace între copaci.
 
 ## Parcare gratuită
 Icon: parking
-Text: Parcare privată în curtea pensiunii, gratuită și cu loc pentru toate mașinile. Nu rămâne nimeni pe stradă.
+Text: Privată, în curte, cu loc pentru toate mașinile.
 
 ## Wi-Fi de mare viteză
 Icon: wifi
-Text: Internet fără fir în toată clădirea, inclus în tarif. Booking a măsurat 83 Mbps — se poate lucra de aici, nu doar citi e-mailuri.
+Text: În toată clădirea, inclus în tarif. 83 Mbps, măsurați de Booking.
 
 ## Bucătărie proprie în cameră
 Icon: dining
-Text: Fiecare cameră are bucătărie proprie și colț de luat masa. Nu depindeți de programul nimănui pentru o cafea dimineața sau o cină târzie.
+Text: Bucătărie proprie și colț de luat masa în fiecare cameră.
 
 ## Balcon la fiecare cameră
 Icon: terrace
-Text: Toate camerele au balcon, cu masă și scaune. De la etajele de sus se vede peste acoperișurile stațiunii, până la dealurile de dincolo de Felix.
+Text: Cu masă și scaune, în toate camerele.
 
 ## Aer condiționat, TV și minibar
 Icon: climate
-Text: Aer condiționat, televizor cu ecran plat prin satelit și minibar în fiecare cameră. Pereții sunt izolați fonic.
+Text: În fiecare cameră. Pereții sunt izolați fonic.
 
 ## Transfer de la aeroport
 Icon: transfer-aeroport
-Text: Transfer de la și către Aeroportul Internațional Oradea, la opt kilometri. Se cere din timp, la rezervare.
+Text: Aeroportul Oradea e la opt kilometri. Se cere la rezervare.
 
 ## Acceptăm tichete de vacanță
 Icon: tag
-Text: Sejurul se poate plăti cu tichete de vacanță. E o metodă de plată acceptată aici, nu o promoție — se spune la rezervare și se folosește la fața locului.
+Text: Sejurul se poate plăti cu tichete de vacanță.

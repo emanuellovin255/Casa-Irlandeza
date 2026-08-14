@@ -47,7 +47,7 @@ minutes from the gate, and the shops a five-minute walk.
 ## Bandă de semnătură
 
 Eticheta:
-Text: Rooms with a balcony, a hot tub under the open sky, and a garden where children need no supervision. The rest of the resort is a ten-minute walk away.
+Text: Rooms with balconies, a hot tub under the open sky, a garden for children.
 Poza: exterior-pensiune-in-lumina-de-seara.webp
 Semnat de:
 

@@ -379,12 +379,21 @@
 }
 
 /* Cardul devine un rând: cercul la stânga, textul la dreapta. Fără fundal,
-   fără chenar, fără umbră — tot ce desena „card" dispare. */
+   fără chenar, fără umbră — tot ce desena „card" dispare.
+
+   CERCUL ȚINE AMÂNDOUĂ RÂNDURILE (`grid-row: 1 / -1`), iar titlul și textul
+   stau explicit în coloana a doua. Fără asta, plasarea automată a grilei
+   punea titlul lângă cerc, dar paragraful pe rândul următor, ÎN COLOANA
+   CERCULUI — textul ajungea sub iconiță, iar coloana „auto" se lățea la
+   lățimea paragrafului și strivea titlul în restul de loc: „Grătar și
+   cuptor cu lemne" cădea pe patru rânduri, cu iconița singură lângă el.
+   Măsurat în browser: cerc 72px, dar coloana 1 la 156px și titlul la 102px. */
 .skin-irlandez .perk {
   display: grid;
   grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
   align-items: start;
-  gap: var(--sp-4);
+  gap: var(--sp-2) var(--sp-4);
   padding: 0;
   background: none;
   border: 0;
@@ -400,6 +409,8 @@
    crește cu ecranul, dar rămâne perfect rotund: `aspect-ratio: 1` plus
    lățime fixă, nu padding procentual. */
 .skin-irlandez .perk-icon {
+  grid-column: 1;
+  grid-row: 1 / -1;
   width: clamp(58px, 5.6vw, 76px);
   height: clamp(58px, 5.6vw, 76px);
   flex: none;
@@ -424,15 +435,20 @@
 }
 
 .skin-irlandez .perk h3 {
+  grid-column: 2;
+  grid-row: 1;
   font-family: var(--font-display);
   text-transform: uppercase;
   letter-spacing: 0.03em;
   font-size: var(--fs-lg);
   line-height: var(--lh-snug);
-  margin-bottom: var(--sp-2);
+  margin-bottom: 0;
+  text-wrap: balance;
 }
 
 .skin-irlandez .perk p {
+  grid-column: 2;
+  grid-row: 2;
   color: var(--on-brand-dim);
   max-width: 34ch;
 }

@@ -6,51 +6,51 @@
 
 ## Outdoor hot tub
 Icon: ciubar
-Text: A hot tub on the wooden deck in the courtyard, with loungers around it. It is the thing people come back for, and the best reason to keep an evening free at the end of the day.
+Text: On the wooden deck in the courtyard, with loungers around it.
 
 ## Sauna
 Icon: sauna
-Text: A dry wooden sauna beside the terrace. After a day in the thermal water at Apollo, it is exactly the opposite of what your body has had.
+Text: Dry wooden sauna, beside the terrace.
 
 ## Bar and covered terrace
 Icon: bar
-Text: A bar and a covered terrace with long wooden tables that seat twenty at once. This is where people sit in the evening, whatever the weather. The dartboard is here too.
+Text: Long wooden tables that seat twenty, under a roof.
 
 ## Barbecue and wood-fired oven
 Icon: grill
-Text: A barbecue and a wood-fired oven on the terrace, for guests to use. You buy what you need from the shops nearby and cook it on the spot, without anyone having to go anywhere.
+Text: On the terrace, for guests to use.
 
 ## Garden with a playground
 Icon: users
-Text: An enclosed courtyard with lawn, fruit trees, a trampoline, a playhouse and hammocks between the trees. Children can be left to play while their parents sit on the terrace and keep an eye on them.
+Text: Enclosed courtyard with a trampoline, a playhouse and hammocks.
 
 ## Free parking
 Icon: parking
-Text: Private parking in the guesthouse courtyard, free, with room for every car. Nobody has to leave theirs on the street.
+Text: Private, in the courtyard, with room for every car.
 
 ## Fast Wi-Fi
 Icon: wifi
-Text: Wireless internet throughout the building, included in the rate. Booking measured 83 Mbps — you can work from here, not just read email.
+Text: Throughout the building, included in the rate. 83 Mbps, measured by Booking.
 
 ## A kitchenette in every room
 Icon: dining
-Text: Every room has its own kitchenette and dining corner. You depend on nobody's schedule for a coffee in the morning or a late dinner.
+Text: Kitchenette and dining corner in every room.
 
 ## A balcony in every room
 Icon: terrace
-Text: All rooms have a balcony with a table and chairs. From the upper floors you look out over the roofs of the resort to the hills beyond Felix.
+Text: With a table and chairs, in every room.
 
 ## Air conditioning, TV and minibar
 Icon: climate
-Text: Air conditioning, flat-screen satellite TV and a minibar in every room. The walls are soundproofed.
+Text: In every room. The walls are soundproofed.
 
 ## Airport transfer
 Icon: transfer-aeroport
-Text: Transfer to and from Oradea International Airport, eight kilometres away. Please request it in advance, when you book.
+Text: Oradea airport is eight kilometres away. Request it when you book.
 
 ## English, German, French and Italian
 Icon: globe
-Text: One of your hosts is Irish. Between the two of them they speak Romanian, English, German, French and Italian — so nothing here has to be arranged in sign language.
+Text: Your hosts speak all five, Romanian included.
 
 <!--
   ⚠ AL DOUĂSPREZECELEA CARD DIFERĂ DE VARIANTA ROMÂNEASCĂ, intenționat.

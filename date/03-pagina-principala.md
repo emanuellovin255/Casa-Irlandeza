@@ -125,7 +125,7 @@ două restaurante, la cinci minute pe jos, magazinele.
 ## Bandă de semnătură
 
 Eticheta:
-Text: Camere cu balcon, un ciubăr sub cerul liber și o curte în care copiii n-au nevoie de supraveghere. Restul stațiunii e la zece minute pe jos.
+Text: Camere cu balcon, un ciubăr sub cerul liber și o curte pentru copii.
 Poza: exterior-pensiune-in-lumina-de-seara.webp
 Semnat de:
 
